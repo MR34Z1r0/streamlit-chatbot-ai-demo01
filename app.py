@@ -14,11 +14,7 @@ with st.sidebar:
     st.markdown(
         """
         Integrando OpenAI con Streamlit y Langchain.
-
-        Esta aplicación ha sido desplegada por **Martin Grados Salinas**.
-
-        Esta aplicación es parte de uno de los talleres realizados en el [curso de Inteligencia Artificial Generativa](https://drive.google.com/file/d/1qc2yemneYW8OUogu5b282_i9uxzoN70j/view)
-
+        
     """
     )
 
